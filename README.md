@@ -1,2 +1,2 @@
 # Architectures
-Contains all the current architectures for Hydrus &amp; Simulations.
+Contains all the current architectures for Hydrus and our Simulations.
